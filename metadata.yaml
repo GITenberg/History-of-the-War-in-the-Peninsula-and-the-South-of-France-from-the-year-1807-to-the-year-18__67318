@@ -1,0 +1,33 @@
+_repo: History-of-the-War-in-the-Peninsula-and-the-South-of-France-from-the-year-1807-to-the-year-18__67318
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Napier, William Francis Patrick
+    aliases:
+    - Napier, W. F. P. (William Francis Patrick)
+    - Napier, Maj-Gen Sir W.F.P.
+    birthdate: 1785
+    deathdate: 1860
+    gutenberg_agent_id: '52327'
+    url: http://www.gutenberg.org/2009/agents/52327
+    wikipedia: https://en.wikipedia.org/wiki/William_Francis_Patrick_Napier
+description: ''
+gutenberg_issued: '2022-02-04'
+identifiers:
+  gutenberg: '67318'
+language: en
+pgterms:marc905: 20131103022411napier
+pgterms:marc906: '1828'
+pgterms:marc907: GB
+production_note: Brian Coe, John Campbell and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: United Kingdom :John Murray,1828.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: History of the War in the Peninsula and the South of France from the year 1807
+  to the year 1814, vol. 1 of 6
+url: http://www.gutenberg.org/ebooks/67318
