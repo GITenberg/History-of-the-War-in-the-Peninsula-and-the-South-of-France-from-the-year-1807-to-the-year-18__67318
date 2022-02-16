@@ -1,5 +1,8 @@
 _repo: History-of-the-War-in-the-Peninsula-and-the-South-of-France-from-the-year-1807-to-the-year-18__67318
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67318-h/images/cover.jpg
 creator:
   author:
     agent_name: Napier, William Francis Patrick
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/52327
     wikipedia: https://en.wikipedia.org/wiki/William_Francis_Patrick_Napier
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67318#History-of-the-War-in-the-Peninsula-and-the-South-of-France-from-the-year-1807-to-the-year-18_
 gutenberg_issued: '2022-02-04'
 identifiers:
   gutenberg: '67318'
